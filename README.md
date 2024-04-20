@@ -12,7 +12,7 @@
 
 
 ## <a name="introduction">🤖 Introduction</a>
-
+- ✔️ A Nike Landing Page built with React and Tailwind CSS
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
