@@ -1,4 +1,6 @@
+# ✔️A Nike Landing Page built with tailwindCSS
 
+https://github.com/ispandya/NikeLandingPage/assets/128423758/23522790-0232-487b-b234-2c1e89801177
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -381,7 +383,6 @@ export default {
 </details>
 
 ## <a name="links">🔗 Links</a>
-
 
 - [Tailwind Play](https://play.tailwindcss.com/)
 
